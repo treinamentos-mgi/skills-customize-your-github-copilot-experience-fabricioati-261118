@@ -1,15 +1,15 @@
-# 📘 Tarefa: Análise de Dados
+# 📘 Assignment: Data Analysis
 
-## 🎯 Objective
+## 🎯 Objetivo
 
-Os alunos aprenderão os fundamentos da análise de dados usando Python. Eles irão carregar, explorar e analisar um conjunto de dados para extrair insights relevantes.
+Pratique a exploração e a análise descritiva de dados com Python. Você vai resumir notas de estudantes e comparar os resultados por idade sem inferir relações causais.
 
-## 📝 Tasks
+## 📝 Tarefas
 
 ### 🛠️ Carregamento e Exploração de Dados
 
 #### Descrição
-Carregue um dataset CSV fornecido e realize uma exploração básica para entender sua estrutura e conteúdo.
+Instale as dependências com `python -m pip install pandas matplotlib` e execute `python starter-code.py` na pasta da tarefa. O programa carrega `data.csv` e realiza uma exploração básica para mostrar sua estrutura e conteúdo.
 
 #### Requisitos
 O programa completo deve:
@@ -22,7 +22,7 @@ O programa completo deve:
 ### 🛠️ Visualização de Dados e Insights
 
 #### Descrição
-Crie visualizações para ajudar a entender os dados e resuma as principais descobertas.
+Use as notas e as idades para criar visualizações e apresentar descobertas descritivas. Ao executar `python starter-code.py`, os gráficos devem ser salvos na pasta `analysis_output/`.
 
 #### Requisitos
 O programa completo deve:
